@@ -6,6 +6,6 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "firebase-admin": "^6.5.0"
+    "firebase-admin": "^11.4.1"
   }
 }
